@@ -1,0 +1,18 @@
+{
+  "rules_version": "2025.1",
+  "currency": "SEK",
+  "rounding": "nearest_krona",
+  "withholding_tolerance_sek": 1000,
+  "interest_change_threshold": {
+    "default": { "type": "delta_pp", "value": 0.25 },
+    "alternative": { "type": "monthly_cost_sek", "value": 200 }
+  },
+  "sources": ["Skatteverkets tabeller 2025"],
+  "checksums": {
+    "municipal_rates_2025.csv": "<sha256>",
+    "basic_deduction_under66_2025.csv": "<sha256>",
+    "basic_deduction_over66_2025.csv": "<sha256>",
+    "one_time_withholding_2025.csv": "<sha256>",
+    "state_tax_2025.json": "<sha256>"
+  }
+}
