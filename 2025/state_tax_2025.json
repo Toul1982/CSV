@@ -1,9 +1,6 @@
 {
   "annual": [
-    { "age_min": 0, "age_max": 65, "from_sek": 0, "to_sek": 598500, "marginal_rate": 0.0 },
-    { "age_min": 0, "age_max": 65, "from_sek": 598500, "to_sek": null, "marginal_rate": 0.20 },
-
-    { "age_min": 66, "age_max": 200, "from_sek": 0, "to_sek": 675000, "marginal_rate": 0.0 },
-    { "age_min": 66, "age_max": 200, "from_sek": 675000, "to_sek": null, "marginal_rate": 0.20 }
+    { "age_min": 0, "age_max": 65, "from_sek": 0, "to_sek": 643100, "marginal_rate": 0.0 },
+    { "age_min": 0, "age_max": 65, "from_sek": 643100, "to_sek": null, "marginal_rate": 0.20 }
   ]
 }
