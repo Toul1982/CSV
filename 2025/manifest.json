@@ -1,13 +1,13 @@
 {
   "year": 2025,
-  "version": "2025.1",
+  "version": "2025.2",
   "files": [
-    {"name":"skattetabell_manadslon_2025.csv","sha256":"<hash>"},
-    {"name":"skattesatser_kommuner_2025.csv","sha256":"<hash>"},
-    {"name":"grundavdrag_under66_2025.csv","sha256":"<hash>"},
-    {"name":"grundavdrag_over66_2025.csv","sha256":"<hash>"},
-    {"name":"engangsskatt_2025.csv","sha256":"<hash>"},
-    {"name":"state_tax_2025.json","sha256":"<hash>"}
+    {"name": "skattetabell_manadslon_2025.csv", "sha256": "<hash>"},
+    {"name": "skattesatser_kommuner_2025.csv", "sha256": "<hash>"},
+    {"name": "grundavdrag_under66_2025.csv", "sha256": "<hash>"},
+    {"name": "grundavdrag_over66_2025.csv", "sha256": "<hash>"},
+    {"name": "engangsskatt_2025.csv", "sha256": "<hash>"},
+    {"name": "state_tax_2025.csv", "sha256": "<hash>"}
   ],
-  "created_at":"2025-01-10T09:00:00Z"
+  "created_at": "2025-01-10T09:00:00Z"
 }
